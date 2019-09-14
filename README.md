@@ -1,2 +1,2 @@
-# A-3D
+# A*STAR 3D
 An Autonomous Driving Dataset from I2R, A*STAR
