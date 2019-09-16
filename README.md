@@ -40,11 +40,13 @@ The following is the Sensor setup for A*3D data collection vehicle platform.
    <div align=center><img width = '450' src ="images/results1.png"/></div>
    
 - High object-density vs. Low object-density
-  - When increasing the training data, the performance improvements are margina
+  - When increasing the training data, the performance improvements are marginal.
   - The best result comes from mixing high and low density samples.
     <div align=center><img width = '450' src ="images/results2.png"/></div>
 
-
+- Day-time vs. Night-time
+  - We are the first to provide a systematic study on the effects of night-time on 3D object detection systems. 
+    <div align=center><img width = '450' src ="images/results3.png"/></div>
 
 
 
