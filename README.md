@@ -1,5 +1,11 @@
 # A*3D: An Autonomous Driving Dataset in Challeging Environments
 
+### Introduction
+A*3D has 230K human-labeled 3D object annotations in 39; 179 LiDAR point cloud frames and corresponding frontal-facing RGB images captured at different times (day, night) and weathers (sun, cloud, rain). A*3D dataset is a step forward to make
+autonomous driving safer for pedestrians and the public in the real world.The following illustrates the comparison with existing multi-modal Autonomous Driving datasets.
+<div align=center><img width = '500' src ="images/Introduction.png"/></div>
+
+
 **Night-time high-density** examples from the proposed A*3D dataset with RGB images and their corresponding LiDAR data. 
 
 <div align=center><img width = '500' src ="images/Example.png"/></div>
@@ -19,18 +25,28 @@ The following depicts the Sensor setup for A*3D data collection vehicle platform
   <div align=center><img width = '450' src ="images/DrivingRoutes.png"/></div>
 
 ### Dataset Statistics
-- **High-density frames**. 
+- **17% frames with high object-density**. 
 	- The number of annotations per frame for A*3D dataset are much **higher than KITTI dataset**.
 	- The A*3D dataset comprises **7 annotated classes** corresponding to the most common objects in road scenes.
 
 <div align=center><img width = '450' src ="images/statistics1.png"/></div>
 
-- **Heavily occluded frames**. 
+- **25% frames with heavy occlusion**. 
 	- About half of the vehicles are partially or highly occluded.
 	<div align=center><img width = '450' src ="images/statistics2.png"/></div>
 
 	- Average number of points inside the bounding box of each class and the Log number of points within bounding box.
   	<div align=center><img width = '450' src ="images/statistics3.png"/></div>
+	
+- Radial distance.
+  	<div align=center><img width = '450' src ="images/RadialDistance.png"/></div>
+
+- Distribution of object orientation.
+  	<div align=center><img width = '450' src ="images/Orientation.png"/></div>
+
+- Box dimensions.
+  	<div align=center><img width = '450' src ="images/dimensions.png"/></div>
+
 
 ### Benchmarking
 - Object-density: Cross-dataset Evaluation
