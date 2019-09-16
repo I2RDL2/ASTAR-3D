@@ -64,7 +64,7 @@ The following depicts the Sensor setup for A*3D data collection vehicle platform
     <div align=center><img width = '450' src ="images/results2.png"/></div>
 
 - Day-time vs. Night-time
-  - We are the first to provide a systematic study on the effects of night-time on 3D object detection systems. 
+  - We are the first to provide a systematic study on the effects of night-time on 3D object detection systems with F-PointNet and AVOD methods. 
     <div align=center><img width = '450' src ="images/results3.png"/></div>
 
 
