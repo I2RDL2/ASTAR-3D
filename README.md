@@ -10,7 +10,7 @@ An Autonomous Driving Dataset from I2R, A*STAR
   - A Velodyne HDL-64ES3 3D-LiDAR with 10Hz spinrate, 64 laser beams.
   
   The following is the Sensor setup for A*3D data collection vehicle platform. 
-  <div align=center><img width = '650' src ="images/vehicle.png"/></div>
+  <div align=center><img width = '650' src ="images/Vehicle.png"/></div>
   
 - The data collection covers entire Singapore including highways, neighborhood roads, tunnels, urban, suburban, industrial, HDB car parks, coastline, etc. 
 
