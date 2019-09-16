@@ -16,24 +16,22 @@ The following depicts the Sensor setup for A*3D data collection vehicle platform
 - The data collection covers **the entire Singapore** including highways, neighborhood roads, tunnels, urban, suburban, industrial, HDB car parks, coastline, etc. 
 - NuScenes only covers a small portion of Singapore roads (highlighted in red).
 
-  <div align=center><img width = '350' src ="images/DrivingRoutes.png"/></div>
+  <div align=center><img width = '450' src ="images/DrivingRoutes.png"/></div>
 
 ### Dataset Statistics
 - **High-density frames**. 
 	- The number of annotations per frame for A*3D dataset are much **higher than KITTI dataset**.
-	- The A*3D dataset comprises 7 annotated classes corresponding to the most common objects in road scenes.
-	- Car, Pedestrian, Van, Cyclist, Bus, Truck, and Motorcyclist.
+	- The A*3D dataset comprises **7 annotated classes** corresponding to the most common objects in road scenes.
 
 <div align=center><img width = '450' src ="images/statistics1.png"/></div>
 
 - **Heavily occluded frames**. 
 	- About half of the vehicles are partially or highly occluded.
+	<div align=center><img width = '450' src ="images/statistics2.png"/></div>
+
 	- Average number of points inside the bounding box of each class and the Log number of points within bounding box.
-	<p float="left">
-	  <img src="images/statistics2.png" width="380" />
-	  <img src="images/statistics3.png" width="380" /> 
-	</p>
-  
+  	<div align=center><img width = '450' src ="images/statistics3.png"/></div>
+
 ### Benchmarking
 - Object-density: Cross-dataset Evaluation
   - A pre-trained model of PointRCNN on KITTI suffers almost a 15% drop in mAP on A*3D validation set. 
