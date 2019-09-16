@@ -72,11 +72,11 @@ Please email Jie Lin (lin-j@i2r.a-star.edu.sg) for the download link to the data
 
 ### Citation
 If using our data in your research work, please cite the following paper:
-
+```
 @article{astar-3d,
-author = {Quang-Hieu Pham, Pierre Sevestre, Ramanpreet Singh Pahwa, Huijing Zhan, Chun Ho Pang, Yuda Chen, Armin Mustafa, Vijay Chandrasekhar, Jie Lin},
-title = {A*3D Dataset: Towards Autonomous Driving in Challenging Environments},  
-year      = {2019},
-eprint    = {1909.xxxxx}
+	author = {Quang-Hieu Pham, Pierre Sevestre, Ramanpreet Singh Pahwa, Huijing Zhan, Chun Ho Pang, Yuda Chen, Armin Mustafa, Vijay Chandrasekhar, Jie Lin},
+	title = {A*3D Dataset: Towards Autonomous Driving in Challenging Environments},  
+	year = {2019},
+	eprint = {1909.xxxxx}
 }
-
+```
