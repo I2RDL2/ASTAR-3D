@@ -5,4 +5,4 @@ Examples from the proposed A*3D dataset with RGB images and their corresponding 
 
 The following two scenes captured in the evening and at night demonstrate high objectdensity in the environment.
 
-<img src=".images/Example.png" width="400"/>
+<img src="images/Example.png" width="400"/>
