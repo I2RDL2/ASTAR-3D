@@ -26,6 +26,8 @@ The following is the Sensor setup for A*3D data collection vehicle platform.
 <div align=center><img width = '450' src ="images/statistics1.png"/></div>
 
 - **Heavily occluded frames**. About half of the vehicles are partially or highly occluded.
+<div align=center><img width = '450' src ="images/statistics2.png"/></div>
+
   - Average number of points inside the bounding box of each class and the Log number of points within bounding box.
   
   <div align=center><img width = '450' src ="images/statistics3.png"/></div>
