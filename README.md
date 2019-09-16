@@ -32,6 +32,20 @@ The following is the Sensor setup for A*3D data collection vehicle platform.
    - Average number of points inside the bounding box of each class and the Log number of points within bounding box.
   
   <div align=center><img width = '450' src ="images/statistics3.png"/></div>
+  
+### Benchmarking
+- Object-density: Cross-dataset Evaluation
+  - A pre-trained model of PointRCNN on KITTI suffers almost a 15% drop in mAP on A*3D validation set. 
+  - When trained on our high-density subset, PointRCNN achieves much better performance on the KITTI validation set, especially on Moderate and Hard with almost 10% improvements.
+   <div align=center><img width = '450' src ="images/results1.png"/></div>
+   
+- High object-density vs. Low object-density
+  - When increasing the training data, the performance improvements are margina
+  - The best result comes from mixing high and low density samples.
+    <div align=center><img width = '450' src ="images/results2.png"/></div>
+
+
+
 
 
 
