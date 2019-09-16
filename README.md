@@ -2,7 +2,7 @@
 
 **Night-time high-density** Examples from the proposed A*3D dataset with RGB images and their corresponding LiDAR data. 
 
-<div align=center><img width = '650' src ="images/Example.png"/></div>
+<div align=center><img width = '600' src ="images/Example.png"/></div>
 
 ### Sensor Setup
 We collect raw sensor data using the A*STAR autonomous vehicle, which is equipped with the following sensors:
@@ -20,18 +20,18 @@ The following is the Sensor setup for A*3D data collection vehicle platform.
 
 ### Dataset Statistics
 - **High-density frames**. The number of annotations per frame for A*3D dataset are much higher than the KITTI dataset.
- - The A*3D dataset comprises 7 annotated classes corresponding to the most common objects in road scenes.
-  - Car, Pedestrian, Van, Cyclist, Bus, Truck, and Motorcyclist.
+    - The A*3D dataset comprises 7 annotated classes corresponding to the most common objects in road scenes.
+     - Car, Pedestrian, Van, Cyclist, Bus, Truck, and Motorcyclist.
 
-<div align=center><img width = '350' src ="images/statistics1.png"/></div>
+<div align=center><img width = '450' src ="images/statistics1.png"/></div>
 
 - **Heavily occluded frames**. About half of the vehicles are partially or highly occluded.
 
-<div align=center><img width = '350' src ="images/statistics2.png"/></div>
+<div align=center><img width = '450' src ="images/statistics2.png"/></div>
 
-  - Average number of points inside the bounding box of each class and the Log number of points within bounding box.
+   - Average number of points inside the bounding box of each class and the Log number of points within bounding box.
   
-  <div align=center><img width = '350' src ="images/statistics3.png"/></div>
+  <div align=center><img width = '450' src ="images/statistics3.png"/></div>
 
 
 
