@@ -67,16 +67,16 @@ The following depicts the Sensor setup for A*3D data collection vehicle platform
   - We are the first to provide a systematic study on the effects of night-time on 3D object detection systems with F-PointNet and AVOD methods. 
     <div align=center><img width = '450' src ="images/results3.png"/></div>
 
-### Download A*3D
-Please email Jie Lin (lin-j@i2r.a-star.edu.sg) for the download link to A*3D dataset. Note that A*3D is for non-commercial research purposes only, and a Non-Commercial Use Agreement needs to be signed.
+### Download A*3D dataset
+Please email Jie Lin (lin-j@i2r.a-star.edu.sg) for the download link to the dataset. Note that this dataset is for non-commercial research purposes only, and a Non-Commercial Use Agreement needs to be signed.
 
 ### Citation
 If using our data in your research work, please cite the following paper:
 
 @article{astar-3d,
-    author = {Quang-Hieu Pham, Pierre Sevestre, Ramanpreet Singh Pahwa, Huijing Zhan, Chun Ho Pang, Yuda Chen, Armin Mustafa, Vijay Chandrasekhar, Jie Lin},
-    title = {A*3D Dataset: Towards Autonomous Driving in Challenging Environments},  
-  year      = {2019},
-  eprint    = {1909.xxxxx}
+author = {Quang-Hieu Pham, Pierre Sevestre, Ramanpreet Singh Pahwa, Huijing Zhan, Chun Ho Pang, Yuda Chen, Armin Mustafa, Vijay Chandrasekhar, Jie Lin},
+title = {A*3D Dataset: Towards Autonomous Driving in Challenging Environments},  
+year      = {2019},
+eprint    = {1909.xxxxx}
 }
 
