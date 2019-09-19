@@ -75,6 +75,6 @@ If using our data in your research work, please cite the following paper:
 	author = {Quang-Hieu Pham, Pierre Sevestre, Ramanpreet Singh Pahwa, Huijing Zhan, Chun Ho Pang, Yuda Chen, Armin Mustafa, Vijay Chandrasekhar, Jie Lin},
 	title = {A*3D Dataset: Towards Autonomous Driving in Challenging Environments},  
 	year = {2019},
-	eprint = {1909.xxxxx}
+	eprint = {1909.07541}
 }
 ```
