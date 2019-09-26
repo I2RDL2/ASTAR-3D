@@ -1,6 +1,6 @@
 # A*3D: An Autonomous Driving Dataset in Challeging Environments
 
-### Introduction
+## Introduction
 A*3D dataset is a step forward to make autonomous driving safer for pedestrians and the public in the real world.
 
 - 230K human-labeled 3D object annotations in 39,179 LiDAR point cloud frames and corresponding frontal-facing RGB images.
