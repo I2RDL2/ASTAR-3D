@@ -13,13 +13,6 @@ A*3D dataset is a step forward to make autonomous driving safer for pedestrians 
 <source id="mp4" src="https://www.youtube.com/watch?v=9LjFbnIvzwg" type="video/mp4">
 </video>
 
-<iframe src="//player.bilibili.com/player.html?aid=35094580&cid=61487124&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="600" height="300"> </iframe>
-
-<div align="center">
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/9LjFbnIvzwg" frameborder="0" allowfullscreen>
-   </iframe>
-</div>
-
 Please click the following .gif and get ready to be directed to the video demonstration of our dataset !
 
 [![A glimpse of A*3D datset](gif/a3d_30.gif)](https://www.youtube.com/watch?v=9LjFbnIvzwg)
