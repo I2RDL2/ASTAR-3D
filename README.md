@@ -1,6 +1,6 @@
 # A*3D: An Autonomous Driving Dataset in Challeging Environments
 
-## Introduction
+### Introduction
 A*3D dataset is a step forward to make autonomous driving safer for pedestrians and the public in the real world.
 
 - 230K human-labeled 3D object annotations in 39,179 LiDAR point cloud frames and corresponding frontal-facing RGB images.
@@ -69,10 +69,10 @@ The following depicts the Sensor setup for A*3D data collection vehicle platform
   - We are the first to provide a systematic study on the effects of night-time on 3D object detection systems with F-PointNet and AVOD methods. 
     <div align=center><img width = '450' src ="images/results3.png"/></div>
 
-### Download A*3D dataset
+## Download A*3D dataset
 Please email Jie Lin (lin-j@i2r.a-star.edu.sg) for the download link to the dataset. Note that this dataset is for non-commercial research purposes only. A Non-Commercial Use Agreement needs to be signed.
 
-### Citation
+## Citation
 If using our data in your research work, please cite the following paper:
 ```
 @article{astar-3d,
