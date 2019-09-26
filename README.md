@@ -1,6 +1,5 @@
 # A*3D: An Autonomous Driving Dataset in Challeging Environments
 
-### Introduction
 A*3D dataset is a step forward to make autonomous driving safer for pedestrians and the public in the real world.
 
 - 230K human-labeled 3D object annotations in 39,179 LiDAR point cloud frames and corresponding frontal-facing RGB images.
@@ -8,7 +7,7 @@ A*3D dataset is a step forward to make autonomous driving safer for pedestrians 
 
 [comment]: <> (The following demonstrates the comparison with existing multi-modal Autonomous Driving datasets.)
 
-### Video Demonstration
+## Video Demonstration
 
 [![Demo Doccou alpha](https://gifs.com/gif/a-3d-dataset-BNOJGW)](https://www.youtube.com/watch?v=9LjFbnIvzwg)
 
@@ -16,7 +15,7 @@ Night-time high-density examples from the proposed A*3D dataset with RGB images 
 
 <div align=center><img width = '500' src ="images/Example.png"/></div>
 
-### Sensor Setup
+## Sensor Setup
 We collect raw sensor data using the A*STAR autonomous vehicle, which is equipped with the following sensors:
   - Two PointGrey Chameleon3 USB3 Global shutter color cameras (CM3-U3-31S4C-CS) with 55Hz frame rate, 2048 × 1536 resolution.
   - A Velodyne HDL-64ES3 3D-LiDAR with 10Hz spinrate, 64 laser beams.
@@ -24,13 +23,13 @@ We collect raw sensor data using the A*STAR autonomous vehicle, which is equippe
 The following depicts the Sensor setup for A*3D data collection vehicle platform. 
   <div align=center><img width = '350' src ="images/Vehicle.png"/></div>
   
-### Data Collection
+## Data Collection
 - The data collection covers **the entire Singapore** including highways, neighborhood roads, tunnels, urban, suburban, industrial, HDB car parks, coastline, etc. 
 - NuScenes only covers a small portion of Singapore roads (highlighted in red).
 
   <div align=center><img width = '450' src ="images/DrivingRoutes.png"/></div>
 
-### Dataset Statistics
+## Dataset Statistics
 - **17% frames with high object-density**. 
 	- The number of annotations per frame for A*3D dataset are much **higher than KITTI dataset**.
 	- The A*3D dataset comprises **7 annotated classes** corresponding to the most common objects in road scenes.
@@ -54,7 +53,7 @@ The following depicts the Sensor setup for A*3D data collection vehicle platform
   	<div align=center><img width = '450' src ="images/dimensions.png"/></div>
 
 
-### Benchmarking
+## Benchmarking
 - Object-density: Cross-dataset Evaluation
   - A pre-trained model of PointRCNN on KITTI suffers almost a 15% drop in mAP on A*3D validation set. 
   - When trained on our high-density subset, PointRCNN achieves much better performance on the KITTI validation set, especially on Moderate and Hard with almost 10% improvements.
