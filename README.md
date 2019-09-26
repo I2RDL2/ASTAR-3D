@@ -10,7 +10,7 @@ A*3D dataset is a step forward to make autonomous driving safer for pedestrians 
 ## Video Demonstration
 
 <div align="center">
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/9LjFbnIvzwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/9LjFbnIvzwg" frameborder="0" allowfullscreen>
    </iframe>
 </div>
 
