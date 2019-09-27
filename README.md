@@ -5,6 +5,10 @@ A*3D dataset is a step forward to make autonomous driving safer for pedestrians 
 - 230K human-labeled 3D object annotations in 39,179 LiDAR point cloud frames and corresponding frontal-facing RGB images.
 - Captured at different times (day, night) and weathers (sun, cloud, rain).
 
+## News
+- [09/27/2019] We received many requests for download link of A*3D. Still need some time to fix remaining issues like masking out face/license plate, cleaning up the data, finalizing data format, and of course preparing a non-commercial use agreement for signing. It would not take too long (1-2 more weeks), will keep you posted once the data is ready.
+- [09/23/2019] A*3D is featured on Import AI, one of the Must-Read AI Newsletters by Open AI’s Jack Clark. See [Here](https://us13.campaign-archive.com/?u=67bd06787e84d73db24fb0aa5&id=6e272cb19a).
+
 [comment]: <> (The following demonstrates the comparison with existing multi-modal Autonomous Driving datasets.)
 
 ## Video Demonstration
