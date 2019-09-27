@@ -75,7 +75,9 @@ The following depicts the Sensor setup for A*3D data collection vehicle platform
     <div align=center><img width = '450' src ="images/results3.png"/></div>
 
 ## Download A*3D dataset
-Please email Jie Lin (lin-j@i2r.a-star.edu.sg) for the download link to the dataset. 
+
+Please email Jie Lin (lin-j@i2r.a-star.edu.sg) for the download link to the dataset.
+
 -Note: this dataset is for non-commercial research purposes only. A Non-Commercial Use Agreement needs to be signed.
 -Note: Please include keyword "A*3D" in the title of the email, just in case we overlook the email.
 
