@@ -23,7 +23,7 @@ Please click the following .gif and get ready to be directed to the video demons
 
 ## Paper
 
-[![Paper on arXiv => "A*3D: An Autonomous Driving Dataset in Challeging Environments"](gif/a3d_45.gif)](https://arxiv.org/abs/1909.07541)
+[![Paper on arXiv => "A*3D: An Autonomous Driving Dataset in Challeging Environments"](images/paper1.png)](https://arxiv.org/abs/1909.07541)
 
 
 ## Sensor Setup
