@@ -22,11 +22,14 @@ Click the following .gif for full-version video !
 [![A glimpse of A*3D datset](gif/a3d_45.gif)](https://www.youtube.com/watch?v=9LjFbnIvzwg)
 
 ## Paper
+
 <div align="center">
 
 <a href="https://arxiv.org/abs/1901.07249">
     <img style="width:200px" src="images/paper1.png">
 </a>   
+
+
 [**Paper on arXiv => "RPC: A Large-Scale Retail Product Checkout Dataset"**](https://arxiv.org/abs/1901.07249)
 </div>
 
