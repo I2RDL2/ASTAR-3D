@@ -10,7 +10,7 @@ A*3D dataset is a step forward to make autonomous driving safer for pedestrians 
 <div align="center">
 
 
-[**Paper on arXiv => "RPC: A Large-Scale Retail Product Checkout Dataset"**](https://arxiv.org/abs/1901.07249)
+[**Paper on arXiv => "A*3D: An Autonomous Driving Dataset in Challeging Environments"**](https://arxiv.org/abs/1909.07541)
 </div>
 
 [comment]: <> (Night-time high-density examples from the proposed A*3D dataset with RGB images and their corresponding LiDAR data.)
