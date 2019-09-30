@@ -17,6 +17,17 @@ A*3D dataset is a step forward to make autonomous driving safer for pedestrians 
 
 [comment]: <> (The following demonstrates the comparison with existing multi-modal Autonomous Driving datasets.)
 
+
+<div align="center">
+
+<a href="https://arxiv.org/abs/1901.07249">
+    <img style="width:200px" src="imgs/paper1.png">
+</a>   
+
+
+[**Paper on arXiv => "RPC: A Large-Scale Retail Product Checkout Dataset"**](https://arxiv.org/abs/1901.07249)
+</div>
+
 ## Video Demonstration
 
 Click the following .gif for full-version video !
