@@ -7,7 +7,7 @@ A*3D dataset is a step forward to make autonomous driving safer for pedestrians 
 
 [comment]: <> (Night-time high-density examples from the proposed A*3D dataset with RGB images and their corresponding LiDAR data.)
 
-<div align=center><img width = '700' src ="images/Example.png"/></div>
+<div align=center><img width = '850' src ="images/Example.png"/></div>
 
 ## News
 - [09/27/2019] We received many requests for download link of A*3D. Still need some time to fix remaining issues like masking out face/license plate, cleaning up the data, finalizing data format, and of course preparing a non-commercial use agreement for signing. It would not take too long (1-2 more weeks), will keep you posted once the data is ready.
