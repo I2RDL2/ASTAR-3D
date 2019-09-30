@@ -25,10 +25,6 @@ Click the following .gif for full-version video !
 
 <div align="center">
 
-<a href="https://arxiv.org/abs/1901.07249">
-    <img style="width:200px" src="images/paper1.png">
-</a>   
-
 
 [**Paper on arXiv => "RPC: A Large-Scale Retail Product Checkout Dataset"**](https://arxiv.org/abs/1901.07249)
 </div>
