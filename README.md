@@ -1,8 +1,5 @@
 # A*3D: An Autonomous Driving Dataset in Challeging Environments
 
-
----
-
  ### [Abstract](#1-abstract) | [Paper](#2-paper) | [Dataset](#3-our-rpc-dataset) | [Baselines](#4-proposed-baseline-method-on-the-rpc-dataset) | [Leaderboard](#5-Leaderboard) | [RPC-tool](#6-rpc-tool) 
 </div>
 
