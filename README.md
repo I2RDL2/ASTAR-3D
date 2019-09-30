@@ -2,7 +2,9 @@
 	
 # A*3D: An Autonomous Driving Dataset in Challeging Environments
 
- ### [Introduction](#1-introduction) | [News](#2-news) | [Video Demonstration](#3-video Demonstration) | [Baselines](#4-proposed-baseline-method-on-the-rpc-dataset) | [Leaderboard](#5-Leaderboard) | [RPC-tool](#6-rpc-tool) 
+---
+
+ ### [Introduction](#1-introduction) | [News](#2-news) | [Video Demonstration](#3-video demonstration) | [Dataset](#4-proposed-baseline-method-on-the-rpc-dataset) | [Benchmarking](#5-benchmarking) | [RPC-tool](#6-rpc-tool) 
 </div>
 
 ## Introduction
@@ -33,8 +35,9 @@ Click the following .gif for full-version video !
 
 [![A glimpse of A*3D datset](gif/a3d_45.gif)](https://www.youtube.com/watch?v=9LjFbnIvzwg)
 
+## Our A*3D dataset 
 
-## Sensor Setup
+#### Sensor Setup
 We collect raw sensor data using the A*STAR autonomous vehicle, which is equipped with the following sensors:
   - Two PointGrey Chameleon3 USB3 Global shutter color cameras (CM3-U3-31S4C-CS) with 55Hz frame rate, 2048 × 1536 resolution.
   - A Velodyne HDL-64ES3 3D-LiDAR with 10Hz spinrate, 64 laser beams.
@@ -42,13 +45,13 @@ We collect raw sensor data using the A*STAR autonomous vehicle, which is equippe
 The following depicts the Sensor setup for A*3D data collection vehicle platform. 
   <div align=center><img width = '350' src ="images/Vehicle.png"/></div>
   
-## Data Collection
+#### Data Collection
 - The data collection covers **the entire Singapore** including highways, neighborhood roads, tunnels, urban, suburban, industrial, HDB car parks, coastline, etc. 
 - NuScenes only covers a small portion of Singapore roads (highlighted in red).
 
   <div align=center><img width = '450' src ="images/DrivingRoutes.png"/></div>
 
-## Dataset Statistics
+#### Dataset Statistics
 - **17% frames with high object-density**. 
 	- The number of annotations per frame for A*3D dataset are much **higher than KITTI dataset**.
 	- The A*3D dataset comprises **7 annotated classes** corresponding to the most common objects in road scenes.
