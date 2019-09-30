@@ -2,7 +2,7 @@
 	
 # A*3D: An Autonomous Driving Dataset in Challeging Environments
 
- ### [Introduction](#introduction) | [News](#news) | [Video Demonstration](#Video-Demonstration) | [A*3D dataset](#A*3D-dataset) | [Benchmarking](#benchmarking) | [Download](#Download) | [Citation](#Citation)
+ ### [Introduction](#introduction) | [News](#news) | [Video Demonstration](#Video-Demonstration) | [A*3D dataset](#Dataset) | [Benchmarking](#benchmarking) | [Download](#Download) | [Citation](#Citation)
 </div>
 
 ## Introduction
@@ -33,7 +33,7 @@ Click the following .gif for full-version video !
 
 [![A glimpse of A*3D datset](gif/a3d_45.gif)](https://www.youtube.com/watch?v=9LjFbnIvzwg)
 
-## A*3D dataset 
+## Dataset 
 #### Sensor Setup
 We collect raw sensor data using the A*STAR autonomous vehicle, which is equipped with the following sensors:
   - Two PointGrey Chameleon3 USB3 Global shutter color cameras (CM3-U3-31S4C-CS) with 55Hz frame rate, 2048 × 1536 resolution.
