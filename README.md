@@ -21,7 +21,9 @@ Please click the following .gif and get ready to be directed to the video demons
 
 [![A glimpse of A*3D datset](gif/a3d_45.gif)](https://www.youtube.com/watch?v=9LjFbnIvzwg)
 
+
 ## Paper
+[Paper on arXiv => "A*3D: An Autonomous Driving Dataset in Challeging Environments"](https://arxiv.org/abs/1909.07541)
 
 [![Paper on arXiv => "A*3D: An Autonomous Driving Dataset in Challeging Environments"](images/paper1.png)](https://arxiv.org/abs/1909.07541)
 
