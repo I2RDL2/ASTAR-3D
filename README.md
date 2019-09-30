@@ -7,6 +7,12 @@ A*3D dataset is a step forward to make autonomous driving safer for pedestrians 
 
 <div align=center><img width = '850' src ="images/Example.png"/></div>
 
+<div align="center">
+
+
+[**Paper on arXiv => "RPC: A Large-Scale Retail Product Checkout Dataset"**](https://arxiv.org/abs/1901.07249)
+</div>
+
 [comment]: <> (Night-time high-density examples from the proposed A*3D dataset with RGB images and their corresponding LiDAR data.)
 
 ## News
@@ -21,13 +27,6 @@ Click the following .gif for full-version video !
 
 [![A glimpse of A*3D datset](gif/a3d_45.gif)](https://www.youtube.com/watch?v=9LjFbnIvzwg)
 
-## Paper
-
-<div align="center">
-
-
-[**Paper on arXiv => "RPC: A Large-Scale Retail Product Checkout Dataset"**](https://arxiv.org/abs/1901.07249)
-</div>
 
 ## Sensor Setup
 We collect raw sensor data using the A*STAR autonomous vehicle, which is equipped with the following sensors:
