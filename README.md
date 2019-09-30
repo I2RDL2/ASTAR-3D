@@ -2,7 +2,7 @@
 	
 # A*3D: An Autonomous Driving Dataset in Challeging Environments
 
- ### [Introduction](#introduction) | [News](#news) | [Video Demonstration](#Video-Demonstration) | [Dataset](#Our-A*3D-dataset) | [Benchmarking](#benchmarking) | [Download](#Download-A*3D-dataset) | [Citation](#Citation)) 
+ ### [Introduction](#introduction) | [News](#news) | [Video Demonstration](#Video-Demonstration) | [Dataset](#A*3D-dataset) | [Benchmarking](#benchmarking) | [Download](#Download) | [Citation](#Citation)
 </div>
 
 ## Introduction
@@ -33,7 +33,7 @@ Click the following .gif for full-version video !
 
 [![A glimpse of A*3D datset](gif/a3d_45.gif)](https://www.youtube.com/watch?v=9LjFbnIvzwg)
 
-## Our A*3D dataset 
+## A*3D dataset 
 #### Sensor Setup
 We collect raw sensor data using the A*STAR autonomous vehicle, which is equipped with the following sensors:
   - Two PointGrey Chameleon3 USB3 Global shutter color cameras (CM3-U3-31S4C-CS) with 55Hz frame rate, 2048 × 1536 resolution.
@@ -87,7 +87,7 @@ The following depicts the Sensor setup for A*3D data collection vehicle platform
   - We are the first to provide a systematic study on the effects of night-time on 3D object detection systems with F-PointNet and AVOD methods. 
     <div align=center><img width = '450' src ="images/results3.png"/></div>
 
-## Download A*3D dataset
+## Download
 
 Please email Jie Lin (lin-j@i2r.a-star.edu.sg) for the download link to the dataset.
 
