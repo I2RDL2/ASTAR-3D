@@ -7,6 +7,8 @@ A*3D dataset is a step forward to make autonomous driving safer for pedestrians 
 
 <div align=center><img width = '850' src ="images/Example.png"/></div>
 
+[Paper on arXiv => "A*3D: An Autonomous Driving Dataset in Challeging Environments"](https://arxiv.org/abs/1909.07541)
+
 [comment]: <> (Night-time high-density examples from the proposed A*3D dataset with RGB images and their corresponding LiDAR data.)
 
 ## News
@@ -20,12 +22,6 @@ A*3D dataset is a step forward to make autonomous driving safer for pedestrians 
 Please click the following .gif and get ready to be directed to the video demonstration of our dataset !
 
 [![A glimpse of A*3D datset](gif/a3d_45.gif)](https://www.youtube.com/watch?v=9LjFbnIvzwg)
-
-
-## Paper
-[Paper on arXiv => "A*3D: An Autonomous Driving Dataset in Challeging Environments"](https://arxiv.org/abs/1909.07541)
-
-[![Paper on arXiv => "A*3D: An Autonomous Driving Dataset in Challeging Environments"](images/paper1.png)](https://arxiv.org/abs/1909.07541)
 
 
 ## Sensor Setup
