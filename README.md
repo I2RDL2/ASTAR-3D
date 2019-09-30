@@ -34,7 +34,6 @@ Click the following .gif for full-version video !
 [![A glimpse of A*3D datset](gif/a3d_45.gif)](https://www.youtube.com/watch?v=9LjFbnIvzwg)
 
 ## Our A*3D dataset 
-
 #### Sensor Setup
 We collect raw sensor data using the A*STAR autonomous vehicle, which is equipped with the following sensors:
   - Two PointGrey Chameleon3 USB3 Global shutter color cameras (CM3-U3-31S4C-CS) with 55Hz frame rate, 2048 × 1536 resolution.
