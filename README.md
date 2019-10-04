@@ -2,7 +2,7 @@
 	
 # A*3D: An Autonomous Driving Dataset in Challeging Environments
 
- ### [Introduction](#introduction) | [News](#news) | [Video Demonstration](#Video-Demonstration) | [Our dataset](#Dataset) | [Benchmarking](#benchmarking) | [Download](#Download) 
+ ### [Introduction](#introduction) | [News](#news) | [Video Demonstration](#Video-Demonstration) | [Dataset](#Dataset) | [Benchmarking](#benchmarking) | [Download](#Download) 
 </div>
 
 ## Introduction
