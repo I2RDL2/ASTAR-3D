@@ -91,7 +91,7 @@ The following depicts the Sensor setup for A*3D data collection vehicle platform
 
 ## Download
 
-Please email Astar3dteam@a3d.page for the download link to the dataset.
+Please email astar3dteam@a3d.page for the download link to the dataset.
 
 -Note: Please include keyword "A*3D" in the title of the email, just in case we overlook it.
 
