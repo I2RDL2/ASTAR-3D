@@ -22,7 +22,7 @@ A*3D dataset is a step forward to make autonomous driving safer for pedestrians 
 [comment]: <> (Night-time high-density examples from the proposed A*3D dataset with RGB images and their corresponding LiDAR data.)
 
 ## News
-- [**Oct 04, 2019**] Note: The ground-truth annotations for test set (1500 frames) are not released. We encourage you to send us the detection predications on test set for our evaluation, we can post your results on leaderboard with your consent. Will update the evaluation protocol and format shortly.
+- [**Oct 04, 2019**] Note: The ground-truth annotations for test set (**1,500** frames) are not released. We encourage you to send us the detection predications on test set for our evaluation, we can post your results on leaderboard with your consent. Will update the evaluation protocol and format shortly.
 - [**Oct 04, 2019**] A*3D is ready for download. To get the dataset, please follow the instructions at [Download](#Download). Currently, we only release the full set with 1 LiDAR and 1 camera data. We will add data for the other camera later.
 - [**Sep 27, 2019**] We received many requests for download link of A*3D. Still need some time to fix remaining issues like masking out face/license plate, cleaning up the data, finalizing data format, and of course preparing a non-commercial use agreement for signing. It would not take too long (1-2 more weeks), will keep you posted once the data is ready.
 - [**Sep 23, 2019**] A*3D is featured on Import AI, one of the Must-Read AI Newsletters by Open AI’s Jack Clark. See [Here](https://us13.campaign-archive.com/?u=67bd06787e84d73db24fb0aa5&id=6e272cb19a).
