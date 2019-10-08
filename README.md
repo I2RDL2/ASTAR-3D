@@ -2,6 +2,16 @@
 	
 # A*3D: An Autonomous Driving Dataset in Challeging Environments
 
+Quang-Hieu Pham &nbsp;&nbsp;&nbsp; Pierre Sevestre &nbsp;&nbsp;&nbsp; Ramanpreet Singh Pahwa &nbsp;&nbsp;&nbsp; Huijing Zhan &nbsp;&nbsp;&nbsp; Chun Ho Pang Liu &nbsp;&nbsp;&nbsp; Yuda Chen &nbsp;&nbsp;&nbsp; Armin Mustafa &nbsp;&nbsp;&nbsp; Vijay Chandrasekhar &nbsp;&nbsp;&nbsp; Jie Lin &nbsp;&nbsp;&nbsp;
+
+Quang-Hieu Pham, Pierre Sevestre, Ramanpreet Singh Pahwa, Huijing Zhan, Chun Ho Pang, Yuda Chen, Armin Mustafa, Vijay Chandrasekhar, Jie Lin
+
+<sup>1</sup>Megvii Research Nanjing, Megvii Technology Ltd., Nanjing, China    
+<sup>2</sup>Graduate School of IPS, Waseda University, Fukuoka, Japan    
+<sup>3</sup>School of Computer Science, The University of Adelaide, Adelaide, Australia
+
+---
+
  ### [Introduction](#introduction) | [News](#news) | [Video Demonstration](#Video-Demonstration) | [Dataset](#Dataset) | [Benchmarking](#benchmarking) | [Download](#Download) 
 </div>
 
