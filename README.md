@@ -2,7 +2,7 @@
 	
 # A*3D: An Autonomous Driving Dataset in Challeging Environments
 
-Quang-Hieu Pham &nbsp;&nbsp;&nbsp; Pierre Sevestre &nbsp;&nbsp;&nbsp; Ramanpreet Singh Pahwa &nbsp;&nbsp;&nbsp; Huijing Zhan &nbsp;&nbsp;&nbsp; Chun Ho Pang Liu &nbsp;&nbsp;&nbsp; Yuda Chen &nbsp;&nbsp;&nbsp; Armin Mustafa &nbsp;&nbsp;&nbsp; Vijay Chandrasekhar &nbsp;&nbsp;&nbsp; Jie Lin &nbsp;&nbsp;&nbsp;
+Quang-Hieu Pham &nbsp;&nbsp;&nbsp; Pierre Sevestre &nbsp;&nbsp;&nbsp; [Ramanpreet Singh Pahwa](https://scholar.google.com.sg/citations?user=4WnuaPsAAAAJ&hl=en) &nbsp;&nbsp;&nbsp; Huijing Zhan &nbsp;&nbsp;&nbsp; Chun Ho Pang Liu &nbsp;&nbsp;&nbsp; Yuda Chen &nbsp;&nbsp;&nbsp; [Armin Mustafa](https://arminmustafa.github.io/) &nbsp;&nbsp;&nbsp; [Vijay Chandrasekhar](http://vijaychan.github.io/) &nbsp;&nbsp;&nbsp; [Jie Lin](https://scholar.google.com.sg/citations?user=bzhI8wcAAAAJ&hl=en) &nbsp;&nbsp;&nbsp;
 
 ---
 
