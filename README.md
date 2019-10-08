@@ -2,7 +2,7 @@
 	
 # A*3D: An Autonomous Driving Dataset in Challeging Environments
 
-[Quang-Hieu Pham](https://pqhieu.github.io/) &nbsp;&nbsp;&nbsp; Pierre Sevestre &nbsp;&nbsp;&nbsp; [Ramanpreet Singh Pahwa](https://scholar.google.com.sg/citations?user=4WnuaPsAAAAJ&hl=en) &nbsp;&nbsp;&nbsp; Huijing Zhan &nbsp;&nbsp;&nbsp; Chun Ho Pang Liu &nbsp;&nbsp;&nbsp; Yuda Chen &nbsp;&nbsp;&nbsp; [Armin Mustafa](https://arminmustafa.github.io/) &nbsp;&nbsp;&nbsp; [Vijay Chandrasekhar](http://vijaychan.github.io/) &nbsp;&nbsp;&nbsp; [Jie Lin](https://scholar.google.com.sg/citations?user=bzhI8wcAAAAJ&hl=en) &nbsp;&nbsp;&nbsp;
+[Quang-Hieu Pham](https://pqhieu.github.io/) &nbsp;&nbsp;&nbsp; Pierre Sevestre &nbsp;&nbsp;&nbsp; [Ramanpreet Singh Pahwa](https://scholar.google.com.sg/citations?user=4WnuaPsAAAAJ&hl=en) &nbsp;&nbsp;&nbsp; [Huijing Zhan](https://zhanhuijing.github.io/index) &nbsp;&nbsp;&nbsp; Chun Ho Pang Liu &nbsp;&nbsp;&nbsp; Yuda Chen &nbsp;&nbsp;&nbsp; [Armin Mustafa](https://arminmustafa.github.io/) &nbsp;&nbsp;&nbsp; [Vijay Chandrasekhar](http://vijaychan.github.io/) &nbsp;&nbsp;&nbsp; [Jie Lin](https://scholar.google.com.sg/citations?user=bzhI8wcAAAAJ&hl=en) &nbsp;&nbsp;&nbsp;
 
  ### [Introduction](#introduction) | [News](#news) | [Video Demonstration](#Video-Demonstration) | [Dataset](#Dataset) | [Benchmarking](#benchmarking) | [Download](#Download) 
 </div>
