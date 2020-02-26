@@ -104,10 +104,10 @@ Please email astar3dteam@a3d.page for the download link to the dataset.
 ## Citation
 If using our data in your research work, please cite the following paper:
 ```
-@article{astar-3d,
-	author = {Quang-Hieu Pham, Pierre Sevestre, Ramanpreet Singh Pahwa, Huijing Zhan, Chun Ho Pang, Yuda Chen, Armin Mustafa, Vijay Chandrasekhar, Jie Lin},
-	title = {A*3D Dataset: Towards Autonomous Driving in Challenging Environments},  
-	year = {2019},
-	eprint = {1909.07541}
+@INPROCEEDINGS{astar-3d,
+   Author = {Quang-Hieu Pham, Pierre Sevestre, Ramanpreet Singh Pahwa, Huijing Zhan, Chun Ho Pang, Yuda Chen, Armin Mustafa, Vijay Chandrasekhar, Jie Lin},
+   Title = {A*3D Dataset: Towards Autonomous Driving in Challenging Environments},
+   Booktitle = {Proc. of The International Conference in Robotics and Automation (ICRA)},
+   Year = {2020}
 }
 ```
