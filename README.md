@@ -93,12 +93,7 @@ The following depicts the Sensor setup for A*3D data collection vehicle platform
 
 ## Download
 
-Please email astar3dteam@a3d.page for the download link to the dataset.
-
--Note: Please include keyword "A*3D" in the title of the email, just in case we overlook it.
-
--Note: This dataset is for non-commercial research purposes only. A [Non-Commercial Use Agreement](https://github.com/I2RDL2/ASTAR-3D/blob/master/Use%20Agreement.pdf) needs to be signed with handwritten signature. Please attach a signed copy in the email.
-
+In progress ...
 
 
 ## Citation
